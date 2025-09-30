@@ -52,7 +52,8 @@ print(x)
 ## Output:
 ![lu decomposition]()
 <img width="1408" height="959" alt="Screenshot 2025-09-30 134454" src="https://github.com/user-attachments/assets/897f6759-08f2-42f4-86c2-ab3f9e91ceff" />
-![Uploading Screenshot 2025-09-30 134511.png…]()
+<img width="1440" height="952" alt="Screenshot 2025-09-30 134511" src="https://github.com/user-attachments/assets/4f99a525-68d4-472f-bd73-29a58f8aaa15" />
+
 
 
 
